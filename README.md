@@ -3,7 +3,7 @@ This is a very robust and concise data analysis of an organization of over 1470 
 
 ## DOCUMENTATION OUTLINE
 
-- Project Overview
+- [Project Overview](#project-overview)
 
 - Project Objectives
 
