@@ -35,6 +35,8 @@ Attrition Analysis II shows attrition by monthly income, overtime, etc.
 
 ## Data Sources
 The data was provided by the SkilHarvest Data Analysis Instructor in xlsx format.
+Data consisted of 1470 rows and 41 columns; totals 60270 an organization staff data just from the raw data
+![](001rawdata.png)
 
 
 ## Tools Used for Analysis
