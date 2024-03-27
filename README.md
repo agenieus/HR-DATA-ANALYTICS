@@ -44,7 +44,7 @@ Data consisted of 1470 rows and 41 columns; totals 60270 an organization staff d
 - MS Power BI for Report & Visualization [Download Here](https://powerbi.microsoft.com/en-us/downloads/)
 - MS Powerpoint for presentation [Download Here](https://www.microsoft.com/en/microsoft-365/powerpoint)
   
-## Data Cleaning Preparation and Transformation
+## Data Cleaning, Preparation and Transformation
 
 
 
