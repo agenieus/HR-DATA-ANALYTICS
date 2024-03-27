@@ -5,19 +5,19 @@ This is a very robust and concise data analysis of an organization of over 1470 
 
 - [Project Overview](#project-overview)
 
-- Project Objectives
+- [Project Objectives](#project-objectives)
 
-- Data Sources
+- [Data Sources](#data-sources)
 
-- Tools Used for Analysis
+- [Tools Used for Analysis](tools-used-for-analysis)
 
-- Data Cleaning Preparation & Transformation
+- [Data Cleaning Preparation & Transformation](data-cleaning-preparation-&-transfprmation)
 
-- Observations and Results
+- [Observations and Results](observations-and-results)
 
-- Recommendations
+- [Recommendations](recommendations)
 
-- Contact Info
+- [Contact Info](contact-info)
 
 ## Project Overview
 This project is to tell a story on attrition based on employee statistics and analyze various metrics related to the
