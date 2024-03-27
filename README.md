@@ -88,6 +88,29 @@ The organization has employees with 5 different education degree levels;
 - Master's Degree: has 398 staffs which is 27.07%
 - Doctoral Degree: has 48 staffs which is 3.27%
 
+#### Department at work
+The organization has 3 departments, namely:
+- R&D: This department has 961 staffs which is 65.37% of the staffs; These Department has the most number of staffs
+- Sales: This department has 446 staffs which is 30.34% of the staffs 
+- HR: This department has 63 staffs which is 4.29% of the staffs.
+
+#### Job Role
+The organization has 9 job roles, namely;
+-
+-
+-
+-
+-
+-
+-
+-
+-
+#### Monthly Income
+According to the data analysis carried out;
+The average monthly income for employees is $6,503; The least paid staff receives $1,009 and most paid staff receives $19,999 as monthly income.
+
+
+
 
 ## Recommendations
 
