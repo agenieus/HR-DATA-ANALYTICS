@@ -69,9 +69,9 @@ This is basically a descriptive analysiis of the staff demographic of the organi
 - The organization has 882 males and 588 females; The males accounts for 60% while females accounts for 40% of the employee count.
 
 #### Marital Status
-- The organization has 673 married staffs which accounts for of employee count.
-- 470 single staffs which accounts for of employee count and;
-- 327 Divorced staffs which accounts for of employee count.
+- The organization has 673 married staffs which accounts for 45.8% of employee count.
+- 470 single staffs which accounts for 40% of employee count and;
+- 327 Divorced staffs which accounts for 22.2% of employee count.
 #### Age Group
  The Organization was grouped into 5 age groups;
 - Under 25: has 97 staffs which accounts for 6.6%
@@ -82,11 +82,11 @@ This is basically a descriptive analysiis of the staff demographic of the organi
 
 #### Education Level
 The organization has employees with 5 different education degree levels;
-- High School: has 170 staffs 
-- Associates Degree: has 282 staffs
-- Bachelor's Degree: has 572 staffs
-- Master's Degree: has 398 staffs
-- Doctoral Degree: has 48 staffs
+- High School: has 170 staffs which is 11.56%
+- Associates Degree: has 282 staffs which is 19.18%
+- Bachelor's Degree: has 572 staffs which is 38.91%; Bachelor's Degree has the most number of staffs in the organization 
+- Master's Degree: has 398 staffs which is 27.07%
+- Doctoral Degree: has 48 staffs which is 3.27%
 
 
 ## Recommendations
