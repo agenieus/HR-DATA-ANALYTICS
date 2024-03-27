@@ -24,13 +24,12 @@ This project is to tell a story on attrition based on employee statistics and an
 workforce, such as employee attrition, performance rating, job satisfaction, etc.
 
 ## The Project Objectives
-Demographics- this summarizes employee statistics such as age group, gender, marital status, etc,
+Demographics- this summarizes employee statistics such as age group, gender, marital status, etc.
 
-Employee wellness provides insights to performance ratings, job satisfactions, work life balance.
+Employees approval and job ratings- provides insights to performance ratings, job satisfactions, work life balance, etc.
 
-Attrition Analysis I shows employee attrition by job roles, departments, years in current role, etc.
-
-Attrition Analysis II shows attrition by monthly income, overtime, etc.
+Attrition Analysis -  shows employee attrition by job roles, departments, years in current role, etc.
+attrition across all the relevant metrics possible.
 
 
 ## Data Sources
@@ -51,7 +50,7 @@ Data consisted of 1470 rows and 41 columns; totals 60270 an organization staff d
 ## Observations and Results
 
 
-### DEMOGRAPHIC
+- - ### DEMOGRAPHIC
 This is basically a descriptive analysis of the staff demographic of the organization.
 ![](demography.png)
 
@@ -82,11 +81,11 @@ This is basically a descriptive analysis of the staff demographic of the organiz
 
 #### Education Level
 The organization has employees with 5 different education degree levels;
-- High School: has 170 staffs which is 11.56%
-- Associates Degree: has 282 staffs which is 19.18%
+- High School: has 170 staffs which is 11.56% of the staffs
+- Associates Degree: has 282 staffs which is 19.18% of the staffs.
 - Bachelor's Degree: has 572 staffs which is 38.91%; Bachelor's Degree has the most number of staffs in the organization 
-- Master's Degree: has 398 staffs which is 27.07%
-- Doctoral Degree: has 48 staffs which is 3.27%
+- Master's Degree: has 398 staffs which is 27.07% of the staffs
+- Doctoral Degree: has 48 staffs which is 3.27% of the staffs
 
 #### Department at work
 The organization has 3 departments, namely:
@@ -112,7 +111,12 @@ According to the data analysis carried out;
 The average monthly income for employees is $6,503; The least paid staff receives $1,009 and most paid staff receives $19,999 as monthly income.
 
 
-
+- - ### EMPLOYEES APPROVAL AND JOB RATINGS
+- 
+-
+-
+-
+-
 
 ## Recommendations
 
