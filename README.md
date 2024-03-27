@@ -73,12 +73,21 @@ This is basically a descriptive analysiis of the staff demographic of the organi
 - 470 single staffs which accounts for of employee count and;
 - 327 Divorced staffs which accounts for of employee count.
 #### Age Group
-- The Organization was grouped into 5 age groups;
-- Under 25: 
-- 25-34:
-- 35-44:
-- 45-54:
-- over 55:
+ The Organization was grouped into 5 age groups;
+- Under 25: has 97 staffs which accounts for 6.6%
+- 25-34: has 554 staffs which accounts for 37.69%: turns out to have highest number of the staffs.
+- 35-44: has 505 staffs which accounts for 34.35%: second most populated number of staffs; closely behind the foremost group
+- 45-54: has 245 staffs which accounts for 16.67%
+- over 55: has 69 staffs which accounts for 4.69%: has the least number of staffs.
+
+#### Education Level
+The organization has employees with 5 different education degree levels;
+- High School: has 170 staffs 
+- Associates Degree: has 282 staffs
+- Bachelor's Degree: has 572 staffs
+- Master's Degree: has 398 staffs
+- Doctoral Degree: has 48 staffs
+
 
 ## Recommendations
 
