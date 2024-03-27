@@ -5,15 +5,15 @@ This is a very robust and concise data analysis of an organization of over 1470 
 
 - [Project Overview](#project-overview)
 
-- [Project Objectives](#project-objectives)
+- [Project Objectives](#the-project-objectives)
 
 - [Data Sources](#data-sources)
 
 - [Tools Used for Analysis](#tools-used-for-analysis)
 
-- [Data Cleaning Preparation and Transformation](#data-cleaning-preparation-and-transformation)
+- [Data Cleaning, Preparation and Transformation](#data-cleaning-preparation-and-transformation)
 
-- [Observations and Results](#observations-results)
+- [Observations and Results](#observations-and-results)
 
 - [Recommendations](#recommendations)
 
