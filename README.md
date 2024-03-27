@@ -1,5 +1,5 @@
 # HR DATA ANALYTICS
-This is a very robust and concise data analysis of an organization of over 1470 staffs with different indicators to work with and arriving at data-informed conclusions from the trends and patterns noted in the data.
+This is a very robust and concise data analysis of an organization of over 1,470 staffs with different indicators to work with and arriving at data-informed conclusions from the trends and patterns noted in the data.
 
 ## DOCUMENTATION OUTLINE
 
@@ -49,6 +49,20 @@ Data consisted of 1470 rows and 41 columns; totals 60270 an organization staff d
 
 
 ## Observations and Results
+
+
+### DEMOGRAPHIC
+This is basically a descriptive analysiis of the staff demographic of the organization.
+![](demography.png)
+
+![](demography2.png)
+
+- Total number of employees is 1,470 and 1,233 are actively retained staffs.
+- The Attrition Count is 237 employees; that is 237 staffs have left the company.
+- The Attrition Rate is 16.12%.
+- The average age of staffs is 37; that is to say the workforce is considerably very young.
+- The organization has 3 Departments with 9 different job roles.
+- The average monthly income for employees is $6,503; The least paid staff receives $1,009 and most paid staff receives $19,999 at the end of the month.
 
 
 
