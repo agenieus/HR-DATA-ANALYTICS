@@ -11,7 +11,7 @@ This is a very robust and concise data analysis of an organization of over 1470 
 
 - [Tools Used for Analysis](tools-used-for-analysis)
 
-- [Data Cleaning Preparation & Transformation](data-cleaning-preparation-&-transfprmation)
+- [Data Cleaning Preparation and Transformation](data-cleaning-preparation-and-transfprmation)
 
 - [Observations and Results](observations-and-results)
 
@@ -44,7 +44,7 @@ Data consisted of 1470 rows and 41 columns; totals 60270 an organization staff d
 - MS Power BI for Report & Visualization [Download Here](https://powerbi.microsoft.com/en-us/downloads/)
 - MS Powerpoint for presentation [Download Here](https://www.microsoft.com/en/microsoft-365/powerpoint)
   
-## Data Cleaning, Preparation & Transformation
+## Data Cleaning Preparation and Transformation
 
 
 
