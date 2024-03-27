@@ -62,9 +62,23 @@ This is basically a descriptive analysiis of the staff demographic of the organi
 - The Attrition Rate is 16.12%.
 - The average age of staffs is 37; that is to say the workforce is considerably very young.
 - The organization has 3 Departments with 9 different job roles.
-- The average monthly income for employees is $6,503; The least paid staff receives $1,009 and most paid staff receives $19,999 at the end of the month.
+- The average monthly income for employees is $6,503; The least paid staff receives $1,009 and most paid staff receives $19,999 as monthly income.
 
+---
+#### Gender
+- The organization has 882 males and 588 females; The males accounts for 60% while females accounts for 40% of the employee count.
 
+#### Marital Status
+- The organization has 673 married staffs which accounts for of employee count.
+- 470 single staffs which accounts for of employee count and;
+- 327 Divorced staffs which accounts for of employee count.
+#### Age Group
+- The Organization was grouped into 5 age groups;
+- Under 25: 
+- 25-34:
+- 35-44:
+- 45-54:
+- over 55:
 
 ## Recommendations
 
