@@ -50,7 +50,7 @@ Data consisted of 1470 rows and 41 columns; totals 60270 an organization staff d
 ## Observations and Results
 
 
-- - ### DEMOGRAPHIC
+- ### DEMOGRAPHIC
 This is basically a descriptive analysis of the staff demographic of the organization.
 ![](demography.png)
 
@@ -64,14 +64,14 @@ This is basically a descriptive analysis of the staff demographic of the organiz
 - The average monthly income for employees is $6,503; The least paid staff receives $1,009 and most paid staff receives $19,999 as monthly income.
 
 ---
-#### Gender
+- - - #### Gender
 - The organization has 882 males and 588 females; The males accounts for 60% while females accounts for 40% of the employee count.
 
-#### Marital Status
+- - - #### Marital Status
 - The organization has 673 married staffs which accounts for 45.8% of employee count.
 - 470 single staffs which accounts for 40% of employee count and;
 - 327 Divorced staffs which accounts for 22.2% of employee count.
-#### Age Group
+- - - #### Age Group
  The Organization was grouped into 5 age groups;
 - Under 25: has 97 staffs which accounts for 6.6%
 - 25-34: has 554 staffs which accounts for 37.69%: turns out to have highest number of the staffs.
@@ -79,7 +79,7 @@ This is basically a descriptive analysis of the staff demographic of the organiz
 - 45-54: has 245 staffs which accounts for 16.67%
 - over 55: has 69 staffs which accounts for 4.69%: has the least number of staffs.
 
-#### Education Level
+- - - #### Education Level
 The organization has employees with 5 different education degree levels;
 - High School: has 170 staffs which is 11.56% of the staffs
 - Associates Degree: has 282 staffs which is 19.18% of the staffs.
@@ -87,13 +87,13 @@ The organization has employees with 5 different education degree levels;
 - Master's Degree: has 398 staffs which is 27.07% of the staffs
 - Doctoral Degree: has 48 staffs which is 3.27% of the staffs
 
-#### Department at work
+- - - #### Department at work
 The organization has 3 departments, namely:
 - R&D: This department has 961 staffs which is 65.37% of the staffs; These Department has the most number of staffs
 - Sales: This department has 446 staffs which is 30.34% of the staffs 
 - HR: This department has 63 staffs which is 4.29% of the staffs.
 
-#### Job Roles
+- - - #### Job Roles
 
 - The organization has 9 job roles, namely;
 -
@@ -106,13 +106,22 @@ The organization has 3 departments, namely:
 -
 -
 
-#### Monthly Income
+- - - #### Monthly Income
 According to the data analysis carried out;
 The average monthly income for employees is $6,503; The least paid staff receives $1,009 and most paid staff receives $19,999 as monthly income.
 
 
-- - ### EMPLOYEES APPROVAL AND JOB RATINGS
-- 
+-  ### EMPLOYEES APPROVAL AND JOB RATINGS
+  This is primarily diagnostic analytics of the data whereby we examine data to understand the causes of past events using some indicators within the dataset
+
+#### Job Satisfaction 
+The
+
+-
+#### Job Performance Rating
+-
+-
+-
 -
 -
 -
