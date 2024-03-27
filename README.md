@@ -52,7 +52,7 @@ Data consisted of 1470 rows and 41 columns; totals 60270 an organization staff d
 
 
 ### DEMOGRAPHIC
-This is basically a descriptive analysiis of the staff demographic of the organization.
+This is basically a descriptive analysis of the staff demographic of the organization.
 ![](demography.png)
 
 ![](demography2.png)
