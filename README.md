@@ -112,7 +112,8 @@ The average monthly income for employees is $6,503; The least paid staff receive
 
 
 -  ### EMPLOYEES APPROVAL AND JOB RATINGS
-  This is primarily diagnostic analytics of the data whereby we examine data to understand the causes of past events using some indicators within the dataset
+  This is primarily diagnostic analytics of the data whereby we examine data to understand the causes of past events using some indicators within the dataset.
+  ![](employees approval.png)
 
 #### Job Satisfaction 
 The
