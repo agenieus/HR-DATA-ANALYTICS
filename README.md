@@ -116,25 +116,72 @@ The average monthly income for employees is $6,503; The least paid staff receive
 
 ![](employees%20approval.png)
 
-#### Job Satisfaction 
-The Job satisfaction was scaled 1,2,3 & 4 on the data; 1 been the lowest and 4 been the highest, so I Iterated it to understandable scale as follows
-1= Poor Satisfaction
-2= Mild Satisfaction
-3= Good Satisfaction
-4= Excellent 
-So therefore we had the following Data;
+- - - #### Job Satisfaction 
+The Job satisfaction was scaled as 1,2,3 & 4 on the data; 1 been the lowest and 4 been the highest, so I Iterated it to understandable scale as follows;
+- 1= Poor Job Satisfaction
+- 2= Mild Job Satisfaction
+- 3= Good Job Satisfaction
+- 4= Excellent Job Satisfaction
+- So therefore we had the following Data;
 
-Poor Satisfaction: 289 people were unsatisfied with their job.This was 19.66%
-Mild Satisfaction: 280 people were mildly unsatisfied with their job.This was 19.05% of the employees.
-Good Satisfaction: 442 people were quite satisfied with their job. This was 30.07% of enployees.
-Excellent Satisfaction: 459 people were very satisfied with their job.This was 31.22% of the employees.
-so therefore 61.22 of the employees were pretty satisfied and a staggering 38.71% were unsatisfied with their job.
+- Poor Satisfaction: 289 people were unsatisfied with their job.This was 19.66%
+- Mild Satisfaction: 280 people were mildly unsatisfied with their job.This was 19.05% of the employees.
+- Good Satisfaction: 442 people were quite satisfied with their job. This was 30.07% of enployees.
+- Excellent Satisfaction: 459 people were very satisfied with their job.This was 31.22% of the employees.
+- So therefore 61.22% of the employees were satisfied and a staggering 38.71% were unsatisfied with their job.
+
+- - - #### Environment Satisfaction.
 
 
+Environment Satisfaction was scaled as 1,2,3 & 4 on the data; 1 been the lowest and 4 been the highest, so I Iterated it to understandable scale as follows;
+- 1= Poor Environment Satisfaction
+- 2= Mild Environment Satisfaction
+- 3= Good Environment Satisfaction
+- 4= Excellent Environment Satisfaction.
+- So therefore we had the following Data;
+
+- Poor Satisfaction: 284 people were unsatisfied with their work environment. This was 19.32% of employees.
+- Mild Satisfaction: 287 people were mildly unsatisfied with their work environment. This was 19.52% of employees.
+- Good Satisfaction: 453 people people were quite satisfied with their work environment. This was 30.82% of employees.
+- Excellent Satisfaction: 446 people were very satisfied with their work environment. This was 30.34% of employees.
+- So therefore 61.16% were satisfied and an alarming 38.84% were unsatisfied with their work environment 
+
+
+
+- - - #### Relationship Satisfaction 
+Relationship Satisfaction was scaled as 1,2,3 & 4 on the data; 1 been the lowest and 4 been the highest, so I Iterated it to understandable scale as follows;
+- 1= Poor Relationship Satisfaction
+- 2= Mild Relationship Satisfaction
+- 3= Good Relationship Satisfaction
+- 4= Excellent Relationship Satisfaction 
+- So therefore we had the following Data;
+
+- Poor Satisfaction: 276 people were unsatisfied with their relationship. This was 18.78% of employees.
+- Mild Satisfaction: 303 people were mildly unsatisfied with their relationship. This was 20.61% of employees.
+- Good Satisfaction: 459 people people were quite satisfied with their relationship. This was 31.22% of employees.
+- Excellent Satisfaction: 432 people were very satisfied with their relationship. This was 29.39% of employees.
+- So therefore 60.61% were satisfied and an alarming 39.39% were unsatisfied with their relationship 
+
+
+- - - #### Job Involvement
+
+Job Involvement was scaled as 1,2,3 & 4 on the data; 1 been the lowest and 4 been the highest, so I Iterated it to understandable scale as follows;
+- 1= Very Low Job Involvement 
+- 2= Very Low Job Involvement
+- 3= Good Environment Satisfaction
+- 4= Excellent Environment Satisfaction.
+- So therefore we had the following Data;
+
+- Poor Satisfaction: 284 people were unsatisfied with their work environment. This was 19.32% of employees.
+- Mild Satisfaction: 287 people were mildly unsatisfied with their work environment. This was 19.52% of employees.
+- Good Satisfaction: 453 people people were quite satisfied with their work environment. This was 30.82% of employees.
+- Excellent Satisfaction: 446 people were very satisfied with their work environment. This was 30.34% of employees.
+- So therefore 61.16% were satisfied and an alarming 38.84% were unsatisfied with their work environment 
+
+
+- - - #### Job Performance Rating
 -
-#### Job Performance Rating
--
--
+
 -
 -
 -
