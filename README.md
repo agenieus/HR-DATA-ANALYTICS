@@ -117,7 +117,19 @@ The average monthly income for employees is $6,503; The least paid staff receive
 ![](employees%20approval.png)
 
 #### Job Satisfaction 
-The
+The Job satisfaction was scaled 1,2,3 & 4 on the data; 1 been the lowest and 4 been the highest, so I Iterated it to understandable scale as follows
+1= Poor Satisfaction
+2= Mild Satisfaction
+3= Good Satisfaction
+4= Excellent 
+So therefore we had the following Data;
+
+Poor Satisfaction: 289 people were unsatisfied with their job.This was 19.66%
+Mild Satisfaction: 280 people were mildly unsatisfied with their job.This was 19.05% of the employees.
+Good Satisfaction: 442 people were quite satisfied with their job. This was 30.07% of enployees.
+Excellent Satisfaction: 459 people were very satisfied with their job.This was 31.22% of the employees.
+so therefore 61.22 of the employees were pretty satisfied and a staggering 38.71% were unsatisfied with their job.
+
 
 -
 #### Job Performance Rating
