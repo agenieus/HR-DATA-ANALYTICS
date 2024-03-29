@@ -124,10 +124,10 @@ The Job satisfaction was scaled as 1,2,3 & 4 on the data; 1 been the lowest and 
 - 4= Excellent Job Satisfaction
 - So therefore we had the following Data;
 
-- Poor Satisfaction: 289 people were unsatisfied with their job.This was 19.66%
-- Mild Satisfaction: 280 people were mildly unsatisfied with their job.This was 19.05% of the employees.
-- Good Satisfaction: 442 people were quite satisfied with their job. This was 30.07% of enployees.
-- Excellent Satisfaction: 459 people were very satisfied with their job.This was 31.22% of the employees.
+- Poor Satisfaction: 289 staffs were unsatisfied with their job.This was 19.66%
+- Mild Satisfaction: 280 staffs were mildly unsatisfied with their job.This was 19.05% of the employees.
+- Good Satisfaction: 442 staffs were quite satisfied with their job. This was 30.07% of enployees.
+- Excellent Satisfaction: 459 staffs were very satisfied with their job.This was 31.22% of the employees.
 - So therefore 61.22% of the employees were satisfied and a staggering 38.71% were unsatisfied with their job.
 
 - - - #### Environment Satisfaction.
@@ -140,10 +140,10 @@ Environment Satisfaction was scaled as 1,2,3 & 4 on the data; 1 been the lowest 
 - 4= Excellent Environment Satisfaction.
 - So therefore we had the following Data;
 
-- Poor Satisfaction: 284 people were unsatisfied with their work environment. This was 19.32% of employees.
-- Mild Satisfaction: 287 people were mildly unsatisfied with their work environment. This was 19.52% of employees.
-- Good Satisfaction: 453 people people were quite satisfied with their work environment. This was 30.82% of employees.
-- Excellent Satisfaction: 446 people were very satisfied with their work environment. This was 30.34% of employees.
+- Poor Satisfaction: 284 staffs were unsatisfied with their work environment. This was 19.32% of employees.
+- Mild Satisfaction: 287 staffs were mildly unsatisfied with their work environment. This was 19.52% of employees.
+- Good Satisfaction: 453 staffs were quite satisfied with their work environment. This was 30.82% of employees.
+- Excellent Satisfaction: 446 staffs were very satisfied with their work environment. This was 30.34% of employees.
 - So therefore 61.16% were satisfied and an alarming 38.84% were unsatisfied with their work environment 
 
 
@@ -156,10 +156,10 @@ Relationship Satisfaction was scaled as 1,2,3 & 4 on the data; 1 been the lowest
 - 4= Excellent Relationship Satisfaction 
 - So therefore we had the following Data;
 
-- Poor Satisfaction: 276 people were unsatisfied with their relationship. This was 18.78% of employees.
-- Mild Satisfaction: 303 people were mildly unsatisfied with their relationship. This was 20.61% of employees.
-- Good Satisfaction: 459 people people were quite satisfied with their relationship. This was 31.22% of employees.
-- Excellent Satisfaction: 432 people were very satisfied with their relationship. This was 29.39% of employees.
+- Poor Satisfaction: 276 staffs were unsatisfied with their relationship. This was 18.78% of employees.
+- Mild Satisfaction: 303 staffs were mildly unsatisfied with their relationship. This was 20.61% of employees.
+- Good Satisfaction: 459 staffs were quite satisfied with their relationship. This was 31.22% of employees.
+- Excellent Satisfaction: 432 staffs were very satisfied with their relationship. This was 29.39% of employees.
 - So therefore 60.61% were satisfied and an alarming 39.39% were unsatisfied with their relationship 
 
 
@@ -167,26 +167,51 @@ Relationship Satisfaction was scaled as 1,2,3 & 4 on the data; 1 been the lowest
 
 Job Involvement was scaled as 1,2,3 & 4 on the data; 1 been the lowest and 4 been the highest, so I Iterated it to understandable scale as follows;
 - 1= Very Low Job Involvement 
-- 2= Very Low Job Involvement
-- 3= Good Environment Satisfaction
-- 4= Excellent Environment Satisfaction.
+- 2= Below Average Job Involvement
+- 3= Above Average Job Involvement
+- 4= Very High Job Involvement
 - So therefore we had the following Data;
 
-- Poor Satisfaction: 284 people were unsatisfied with their work environment. This was 19.32% of employees.
-- Mild Satisfaction: 287 people were mildly unsatisfied with their work environment. This was 19.52% of employees.
-- Good Satisfaction: 453 people people were quite satisfied with their work environment. This was 30.82% of employees.
-- Excellent Satisfaction: 446 people were very satisfied with their work environment. This was 30.34% of employees.
-- So therefore 61.16% were satisfied and an alarming 38.84% were unsatisfied with their work environment 
+- Very Low: 83 staffs were poorly involved with their job. This was 5.65% of employees.
+- Below Average: 144 staffs were poorly involved with their job. This was 9.8% of employees.
+- Above Average: 375 staffs were involved in their jobs. This was 25.51% of employees.
+- Very High: 868 staffs were involved in their job. This was 59.05% of employees.
+- So therefore 84.56% were involved in their job and an alarming 15.44% were poorly involved in their job.
 
 
 - - - #### Job Performance Rating
--
 
--
--
--
--
--
+Job Performance Rating was scaled as 3 & 4 on the data; 3 been the least rating and 4 been the highest rating, yet so closely identified on the data; so I Iterated it to understandable scale as follows;
+- 3= Okay Performance Rating
+- 4= High Performance Rating
+- So therefore we had the following Data;
+  
+- Okay: 1244 staffs had okay performance rating. This was 84.63% of employees.
+- High Performance: 226 staffs had high performance rating. This was 15.37% of employees.
+
+- - - #### Work Life Balance
+
+
+
+Work Life balance was scaled as 1,2,3 & 4; 1 been the lowest and 4 been the highest, so I Iterated it to understandable scale as follows;
+- 1= Very Poor Work-Life Balance
+- 2= Poor Work-Life Balance
+- 3= Good Work-Life Balance
+- 4= Excellent Work-Life Balance
+- So therefore we had the following Data;
+
+- Very Poor: 80 staffs had very poor work life balance. This was 5.44% of employees.
+- Poor: 344 staffs had very poor work life balance. This was 23.40% of employees.
+- Good: 893 staffs had very poor work life balance. This was 60.75% of employees.
+- Excellent: 153 staffs had very poor work life balance. This was 10.41% of employees.
+- So therefore 71.16% had good worl life balance and 28.84% had poor worl life balance.
+
+
+
+
+
+
+
 
 ## Recommendations
 
