@@ -206,7 +206,10 @@ Work Life balance was scaled as 1,2,3 & 4; 1 been the lowest and 4 been the high
 - Excellent: 153 staffs had very poor work life balance. This was 10.41% of employees.
 - So therefore 71.16% had good work life balance and 28.84% had poor work life balance.
 
+- ### ATTRITION ANALAYSIS
+  This is a detailed breakdown of attrition across all the metrics available in the data and to extract insights from this patterns established, this is both diagnostic and predictive analysis of the attrition of staffs.
 
+  
 
 
 
