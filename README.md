@@ -96,15 +96,15 @@ The organization has 3 departments, namely:
 - - - #### Job Roles
 
 - The organization has 9 job roles, namely;
--
--
--
--
--
--
--
--
--
+- Sales Executive: has 326 staffs which is 22.18% of the employees.
+- Research Scientist: has 292 staffs which is 19.86% of the employees.
+- Laboratory Technician: has 259 staffs which is 17.62% od the employees.
+- Manufacturing Director: has 145 staffs which is 9.86% of the employees.
+- Healthcare Representative: has 131 staffs which is 8.91% of the employees.
+- Manager: has 102 staffs which is 6.94% of the employees.
+- Sales Representative: has 83 staffs which is 5.65% of the employees.
+- Research Director: has 80 staffs which is 5.44% of the employees.
+- Human Resources: has 52 staffs which is 3.54% of the employees.
 
 - - - #### Monthly Income
 According to the data analysis carried out;
@@ -204,7 +204,7 @@ Work Life balance was scaled as 1,2,3 & 4; 1 been the lowest and 4 been the high
 - Poor: 344 staffs had very poor work life balance. This was 23.40% of employees.
 - Good: 893 staffs had very poor work life balance. This was 60.75% of employees.
 - Excellent: 153 staffs had very poor work life balance. This was 10.41% of employees.
-- So therefore 71.16% had good worl life balance and 28.84% had poor worl life balance.
+- So therefore 71.16% had good work life balance and 28.84% had poor work life balance.
 
 
 
