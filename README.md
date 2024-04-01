@@ -209,6 +209,9 @@ Work Life balance was scaled as 1,2,3 & 4; 1 been the lowest and 4 been the high
 - ### ATTRITION ANALAYSIS
   This is a detailed breakdown of attrition across all the metrics available in the data and to extract insights from this patterns established, this is both diagnostic and predictive analysis of the attrition of staffs.
 ![](attrition1.png)
+
+- - - #### Attrition Rate by Gender:
+- Attrition rate for male was 17.01% [Recall](#gender)
   
 
 
