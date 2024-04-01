@@ -218,17 +218,51 @@ Work Life balance was scaled as 1,2,3 & 4; 1 been the lowest and 4 been the high
 [Recall Gender Demographic](#gender) : 882 male staffs and 558 female staffs
 - Attrition rate for male was 17.01% and for females was 14.80% 
 - which accounts for 150 staff for males and which accounts for 87 females staffs respectively from the 237 attrited staffs.
-- From this we can discover that male staffs left at an higher rate than female staffs in the organization.
+- So Therefore; From this we can discover that male staffs left at an higher rate than female staffs in the organization.
+- Why? Males left more than the female probably because of they have more responsibility as a Man, so if the income is not satisfactory for themselves and their family they probably tend to get alternatives as compared to females who are in lesser pressure of financial responsibility.
+
 - - - #### Attrition Rate by Marital Status:
 [Recall Marital Status Demographic](#marital-status) : 673 married staffs, 470 single staffs and 327 divorced staffs.
 - Attrition rate for married staffs was 12.48%, for single staffs was 25.53% and lastly for divorced staffs was 10.09%.
 - which accounts for 84 married staff for males and which accounts for 120 single staffs  and which accounts for 33 for divorced staffs respectively from the 237 attrited staffs.
-- From this we can discover that single staffs left at an higher rate than female staffs in the organization.
+- From this we can discover that single staffs left at an higher rate than married/divorced staffs in the organization.
+- Why? from this single people left the most probably because they are single and have no additional responsibility of catering for anyone in their life's so leaving an organization comes easy to them, or they left to probably get some other alternatives or to pursue some other objectives as they are still young.
+
 - - - #### Attrition Rate by Age-Group:
 [Recall Age Group Demographic](#age-group) : 
 - Attrition rate for under 25 staffs was 48.65%, for 25-34 staffs was 25.53%, for 35-44 staffs was 10.09%, for 45-54 staffs was 10.09%, for above 55 was 10.09%
 - which accounts for 84 married staff for males and which accounts for 120 single staffs  and which accounts for 33 for divorced. staffs respectively from the 237 attrited staffs.
-- From this we can discover that single staffs left at an higher rate than female staffs in the organization.
+- So Therefore; From this we can discover that single staffs left at an higher rate than female staffs in the organization.
+- Why? Most Attrition occured for younger staffs because they probably were in the organization interim to get by and then left to probably get some other alternatives or they left to study or relocated as they are still very young and unstable with their personal life.
+
+- - - #### Attrition Rate by Education:
+[Recall Education Level Demographic](#education-level) : 170 high school staffs and 282 associate degree staffs, 572 bachelor's degree staffs, 398 Master's degree staffs and 48 doctoral degree staffs.
+- Attrition rate for high school staffs was 18.24%, which account for 31 attrited high school staffs.
+- Attrition rate for associate degree staffs was 15.60%, which account for 44 attrited associate degree staffs.
+- Attrition rate for bachelor's degree was 17.31%, which account for 99 attrited bachelor's degree staffs.
+- Attrition rate for Master's degree was 14.57%, which account for 58 attrited master's degree staffs.
+- Attrition rate for doctoral degree staffs was 10.42%, which account for 5 attrited doctorak degree staffs.
+- So Therefore; We can discover from this that staffs with lower education level left the organization.
+- Why? This is probably because most staffs with lower education level wanted to stop working so as to study further to get higher degree or because lower degrees tend to be lesser pay; so they left to look for some other alternatives.
+
+- - - #### Attrition Rate by Department:
+[Recall Department Demographic](#department-at-work) : R&D staffs had 961 staffs, Sales staffs had 446 staffs, 572 bachelor's degree staffs, HR had 63 staffs.
+- Attrition rate for R&D staffs was 19.05%, which account for 133 attrited R&D staffs.
+- Attrition rate for Sales staffs was 20.63%, which account for 92 attrited Sales staffs.
+- Attrition rate for HR staffs was 13.84%, which account for 12 attrited HR staffs.
+- So Therefore; We can discover from this that staffs In Sales Department left the organization the most.
+- Why? This could be because sales department in most organizations is highly demanding and often times involves regular targets and meeting up to them determines the renumeration at end of month; so probably most who felt the pressure was too much to bear probably left due to this.
+
+- - - #### Attrition Rate by Job Roles:
+[Recall Job Roles Demographic](#job-roles) :
+- Attrition rate for R&D staffs was 19.05%, which account for 133 attrited R&D staffs.
+- Attrition rate for Sales staffs was 20.63%, which account for 92 attrited Sales staffs.
+- Attrition rate for HR staffs was 13.84%, which account for 12 attrited HR staffs.
+- So Therefore; We can discover from this that staffs In Sales Department left the organization the most.
+- Why? This could be because sales department in most organizations is highly demanding and often times involves regular targets and meeting up to them determines the renumeration at end of month; so probably most who felt the pressure was too much to bear probably left due to this.
+
+
+
 
 
 
