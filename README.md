@@ -66,11 +66,13 @@ This is basically a descriptive analysis of the staff demographic of the organiz
 ---
 - - - #### Gender
 - The organization has 882 males and 588 females; The males accounts for 60% while females accounts for 40% of the employee count.
+- The organization has more male staffs.
 
 - - - #### Marital Status
 - The organization has 673 married staffs which accounts for 45.8% of employee count.
 - 470 single staffs which accounts for 40% of employee count and;
 - 327 Divorced staffs which accounts for 22.2% of employee count.
+- The organization has more married staffs.
 - - - #### Age Group
  The Organization was grouped into 5 age groups;
 - Under 25: has 97 staffs which accounts for 6.6%
@@ -78,6 +80,7 @@ This is basically a descriptive analysis of the staff demographic of the organiz
 - 35-44: has 505 staffs which accounts for 34.35%: second most populated number of staffs; closely behind the foremost group
 - 45-54: has 245 staffs which accounts for 16.67%
 - over 55: has 69 staffs which accounts for 4.69%: has the least number of staffs.
+- The organization has more staffs in 25-34 age group; and in general youths are the most employed staffs in the organization.
 
 - - - #### Education Level
 The organization has employees with 5 different education degree levels;
@@ -208,11 +211,24 @@ Work Life balance was scaled as 1,2,3 & 4; 1 been the lowest and 4 been the high
 
 - ### ATTRITION ANALAYSIS
   This is a detailed breakdown of attrition across all the metrics available in the data and to extract insights from this patterns established, this is both diagnostic and predictive analysis of the attrition of staffs.
+  -Attrition rate is 16.12% of employees
 ![](attrition1.png)
 
 - - - #### Attrition Rate by Gender:
-- Attrition rate for male was 17.01% [Recall](#gender)
-  
+[Recall Gender Demographic](#gender) : 882 male staffs and 558 female staffs
+- Attrition rate for male was 17.01% and for females was 14.80% 
+- which accounts for 150 staff for males and which accounts for 87 females staffs respectively from the 237 attrited staffs.
+- From this we can discover that male staffs left at an higher rate than female staffs in the organization.
+- - - #### Attrition Rate by Marital Status:
+[Recall Marital Status Demographic](#marital-status) : 673 married staffs, 470 single staffs and 327 divorced staffs.
+- Attrition rate for married staffs was 12.48%, for single staffs was 25.53% and lastly for divorced staffs was 10.09%.
+- which accounts for 84 married staff for males and which accounts for 120 single staffs  and which accounts for 33 for divorced staffs respectively from the 237 attrited staffs.
+- From this we can discover that single staffs left at an higher rate than female staffs in the organization.
+- - - #### Attrition Rate by Age-Group:
+[Recall Age Group Demographic](#age-group) : 
+- Attrition rate for under 25 staffs was 48.65%, for 25-34 staffs was 25.53%, for 35-44 staffs was 10.09%, for 45-54 staffs was 10.09%, for above 55 was 10.09%
+- which accounts for 84 married staff for males and which accounts for 120 single staffs  and which accounts for 33 for divorced. staffs respectively from the 237 attrited staffs.
+- From this we can discover that single staffs left at an higher rate than female staffs in the organization.
 
 
 
