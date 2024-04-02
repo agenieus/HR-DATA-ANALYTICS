@@ -44,8 +44,13 @@ Data consisted of 1470 rows and 41 columns; totals 60270 an organization staff d
 - MS Powerpoint for presentation [Download Here](https://www.microsoft.com/en/microsoft-365/powerpoint)
   
 ## Data Cleaning, Preparation and Transformation
+- The data was checked for blanks and column quality
+- I made first row as header after importing dataset to power query.
+- I cross-checked Columns for them having the right datatype format and corrected them where it occured.
+- I replaced yes/no by 1/0 respectively in attrition to get the attrition count 
 
-
+- I created measures such as attrition rate and retained/active staffs.
+- I converted the ratings scale of 1-4 on different metrics of the data to understandable measures such as performance rating, work-life balance, relationship satisfaction, environment satisfaction and so on
 
 ## Observations and Results
 
