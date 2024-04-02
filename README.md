@@ -275,7 +275,10 @@ Work Life balance was scaled as 1,2,3 & 4; 1 been the lowest and 4 been the high
 
 
 ## Recommendations
-
+### Based On Demography of Staffs:
+- Will advice the company to employ more people who are married 
+and above 34 because they showed the highest level of consistency to work in the company, had the lowest attrition rate.
+- Will advice the company to reduce the pressure given to staffs in sales department and R&D department.
 
 
 ## Contact Info
