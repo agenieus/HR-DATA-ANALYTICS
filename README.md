@@ -34,7 +34,7 @@ attrition across all the relevant metrics possible.
 
 ## Data Sources
 The data was provided by the SkilHarvest Data Analysis Instructor in xlsx format.
-Data consisted of 1470 rows and 41 columns; totals 60270 an organization staff data just from the raw data
+Data consisted of 1470 rows and 41 columns; totals 60270 data entries about staffs of an organization just from the raw data.
 ![](001rawdata.png)
 
 
@@ -277,8 +277,14 @@ Work Life balance was scaled as 1,2,3 & 4; 1 been the lowest and 4 been the high
 ## Recommendations
 ### Based On Demography of Staffs:
 - Will advice the company to employ more people who are married 
-and above 34 because they showed the highest level of consistency to work in the company, had the lowest attrition rate.
-- Will advice the company to reduce the pressure given to staffs in sales department and R&D department.
+and above 34 because they showed the highest level of consistency to work in the company and had the lowest attrition rate.
+- Will advice the company to reduce the pressure given to staffs in sales and R&D department; this foster peace of mind and result into productivity of the staffs by using some other performance tracking methods.
+- Another very important marker is tye job satisfaction of employees within the company; we noticed quite a lot of them had poor satisfaction rating; i advice the company to evaluate their recruitment process; dialogue with job applicants to know their mental compass about the job if its just a means to an end for them or a job of passion for them; these amongst so many other implementation can be done to wnsure the right set of people are employed regularly.
+- Quite a lot of staffs rated their environment satisfaction as been poor; would advice the office policy be adjusted to give the much needed spark to the work environment; there should be an improvement by having recreational hotspots within the work environment to decompress stress, by improving the overall interior of the office.
+- Relationship satisfaction seems to appear poorly for a good number of staffs, i advice that the organization needs to implement group gatherings that featured activities that foster interactivity amongst staffs and some other menthods implemted to get the relationship rating improved.
+- Work life balance seems to be a very delicate kettle of water on it own because it involves personal life culture of the staffs, this worl balance involves the staff ingenuity to what they put as priority in their personal life to make it improved...seminars or workshops can be held to reinforce the necessity to have a life outside of work.
+- Job involvement needs to be taken up vry seriously by implementing kpi reporting weekly amongst all staffs. These will improve the attitude towards the involvement in their jobs.
+
 
 
 ## Contact Info
